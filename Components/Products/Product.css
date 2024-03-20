@@ -1,0 +1,14 @@
+.jumbo-image{
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 1440px;
+}
+.hdr{
+    height: 300px;
+}
+
+.card-image {
+    height: 300px;
+    width:300px;
+    object-fit: cover;
+  }
